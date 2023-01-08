@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tldl.Api", "Tldl.Api\Tldl.Api.csproj", "{6E60BA35-2867-48BF-BE14-369EBB28681C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tldl.Application", "Tldl.Application\Tldl.Application.csproj", "{777C306C-9E2C-488D-B396-A030927A7ADF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tldl.ChatGpt", "Tldl.ChatGpt\Tldl.ChatGpt.csproj", "{EFD8FFA0-5A03-48FD-B5A2-F46E4208B97D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E60BA35-2867-48BF-BE14-369EBB28681C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E60BA35-2867-48BF-BE14-369EBB28681C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E60BA35-2867-48BF-BE14-369EBB28681C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E60BA35-2867-48BF-BE14-369EBB28681C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{777C306C-9E2C-488D-B396-A030927A7ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777C306C-9E2C-488D-B396-A030927A7ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777C306C-9E2C-488D-B396-A030927A7ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777C306C-9E2C-488D-B396-A030927A7ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD8FFA0-5A03-48FD-B5A2-F46E4208B97D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD8FFA0-5A03-48FD-B5A2-F46E4208B97D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD8FFA0-5A03-48FD-B5A2-F46E4208B97D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD8FFA0-5A03-48FD-B5A2-F46E4208B97D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
